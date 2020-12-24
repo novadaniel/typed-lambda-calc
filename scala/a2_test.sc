@@ -1,5 +1,4 @@
-import $file.a2, a2._
-import $file.a2_ulterm, a2_ulterm._
+import $file.typed-lambda, typed-lambda._
 
 /* Given an expected result and a computed result,
    check if they are equal in value.

@@ -1,5 +1,4 @@
-require_relative "a2"
-require_relative "a2_ulterm"
+require_relative "typed-lambda"
 require "test/unit"
 
 class ProvidedTests < Test::Unit::TestCase
